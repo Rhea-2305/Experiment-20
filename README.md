@@ -41,6 +41,10 @@ Write a c++ to do bubble sorting.
 Visual Studio Code
 
 ## Theory
-
+Bubble Sort is a basic sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order. However, it is inefficient for large datasets due to its high average and worst-case time complexity.
 
 ## Output
+![image](https://github.com/user-attachments/assets/c69a147c-0ae0-4cf0-bcc6-d8207d7997c0)
+
+## Conclusion
+We learnt the bubble sorting algorithm in C++.
